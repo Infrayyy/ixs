@@ -1,3 +1,2 @@
-# ixs
-slayer 
-how do you make a folder on github
+# IXS
+**[Irunblocked](https://irunblocked.com) X Slayers Arcade**
